@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanswatkins
-- 👀 I’m interested in ... music tech, web3, web development
+- 👀 I’m interested in ... music tech, web3, web development, photography
 - 🌱 I’m currently learning ... in the General Assembly SEI program
 - 💞️ I’m looking to collaborate on ... anything I can learn from! 
 - 📫 How to reach me ... hanswatkins@gmail.com
