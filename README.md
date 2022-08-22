@@ -9,7 +9,7 @@ I started my career in music production, working with Universal Music, Bluenote 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [hanswatkins.com](http://www.hanswatkins.com)
 * ✉️  You can contact me at [hanswatkins@gmail.com](mailto:hanswatkins@gmail.com)
-* 🧠  I'm learning SQL!
+* 🧠  I'm learning Django!
 * 🤝  I'm open to collaborating on anything musical or anything technical
 * ⚡  Check out my music at https://linktr.ee/arbour!
 
