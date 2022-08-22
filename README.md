@@ -10,7 +10,7 @@ I started my career in music production, working with Universal Music, Bluenote 
 * 🖥️  See my portfolio at [hanswatkins.com](http://www.hanswatkins.com)
 * ✉️  You can contact me at [hanswatkins@gmail.com](mailto:hanswatkins@gmail.com)
 * 🧠  I'm learning Django!
-* 🤝  I'm open to collaborating on anything musical or anything technical
+* 🤝  I'm open to collaborating on anything, reach out! 
 * ⚡  Check out my music at https://linktr.ee/arbour!
 
 <a href="https://www.twitter.com/prod_arbour" target="_blank" rel="noreferrer"><img
