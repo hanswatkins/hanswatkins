@@ -1,10 +1,10 @@
-Hi 👋 My name is Hans Watkins
+Hi 👋 My name is Hans Watkins!
 =============================
 
-Web developer // Music Producer
+I am a Web developer // Music Producer
 --------------------------------
 
-I started my career in music production, working with Universal Music, Bluenote Records, and 24/7 lofi music livestreams! In June I enrolled in a Software Engineering Immersive at General Assembly and I'm learning to become a Full Stack Engineer.
+I started my career in music production, working with Universal Music, Bluenote Records, and 24/7 lofi music livestreams. In August I graduated from General Assembly's Full Stack Software Engineering Immersive.  
 
 * 🌍  I'm based in Los Angeles
 * 🖥️  See my portfolio at [hanswatkins.com](http://www.hanswatkins.com)
