@@ -10,8 +10,8 @@ I started my career in music production, working with Universal Music, Bluenote 
 * 🖥️  See my portfolio at [hanswatkins.com](http://www.hanswatkins.com)
 * ✉️  You can contact me at [hanswatkins@gmail.com](mailto:hanswatkins@gmail.com)
 * 🧠  I'm honing my <a href='https://www.mongodb.com/mern-stack#:~:text=MERN%20stands%20for%20MongoDB%2C%20Express,a%20client%2Dside%20JavaScript%20framework' target='_blank' rel='noreferrer'>MERN</a> skills!
-* 🤝  I'm open to collaborating on anything, reach out! 
-* ⚡  Check out my music at https://linktr.ee/arbour!
+* 🤝  If you're someone who takes a lot of medications for a chronic condition or have any ideas for improving my medication app, ManyMeds, let's chat! 
+* ⚡  Check out my music at https://www.arbour.social!
 
 <a href="https://www.twitter.com/prod_arbour" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/prod_arbour?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
