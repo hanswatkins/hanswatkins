@@ -1,7 +1,7 @@
 Hi 👋 My name is Hans Watkins!
 =============================
 
-I'm a Web developer / Music Producer
+Web developer / Music Producer
 --------------------------------
 
 I started my career in music production, working with Universal Music, Bluenote Records, and 24/7 lofi music livestreams. In August 2022, I graduated from General Assembly's Full Stack Software Engineering Immersive. Shortly after, I started working as a Front End Engineering Intern at XIRCLS where I develop engaging dashboards to track invoices and income metrics. In my free time, I build full-stack applications to solve problems ranging from tracking medications for people with autoimmune disorders to creating spaces to share ideas in my MERN Blogging app. I'm currently looking for Software Engineering roles, reach out to me on LinkedIn if you want to give me a job or just chat about music production!   
