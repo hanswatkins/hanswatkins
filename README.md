@@ -1,4 +1,5 @@
-Hi 👋 My name is Hans Watkins!
+Hi 👋 
+I'm Hans Watkins!
 =============================
 
 Web developer / Music Producer
