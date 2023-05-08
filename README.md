@@ -6,7 +6,7 @@ Web developer / Music Producer
 
 I started my career in music production, working with Universal Music, Bluenote Records, and 24/7 lofi music livestreams. In August 2022, I graduated from General Assembly's Full Stack Software Engineering Immersive. Shortly after, I started working as a Front End Engineering Intern at XIRCLS where I develop engaging dashboards to track invoices and income metrics. In my free time, I build full-stack applications to solve problems ranging from tracking medications for people with autoimmune disorders to creating spaces to share ideas in my MERN Blogging app. I'm currently looking for Software Engineering roles, reach out to me on LinkedIn if you want to give me a job or just chat about music production!   
 
-* 🌍  I'm based in Los Angeles, Culver City to be exact
+* 🌍  I'm based in Los Angeles. Culver City, to be exact
 * 🖥️  Check out my portfolio at [hanswatkins.com](http://www.hanswatkins.com)
 * ✉️  You can contact me at [hanswatkins@gmail.com](mailto:hanswatkins@gmail.com) or on <a href='https://www.linkedin.com/hanswatkins' target="_blank" rel="noreferrer">LinkedIn</a>
 * 🧠  I'm honing my <a href='https://www.mongodb.com/mern-stack#:~:text=MERN%20stands%20for%20MongoDB%2C%20Express,a%20client%2Dside%20JavaScript%20framework' target='_blank' rel='noreferrer'>MERN</a> skills!
